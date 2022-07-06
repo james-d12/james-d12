@@ -15,5 +15,5 @@ I'm currently employed full time as a software engineer, working on Full stack w
 <details>
 <summary> GitHub Languages </summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-d12&layout=compact&theme=nord" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-d12&langs_count=10&layout=compact&theme=nord" />
 </details>
